@@ -13,11 +13,11 @@
 This is a project that highlights the use of Laravel to create Learning Management Systems(LMS). A very good example is Udemy, and this proejct aims to make use of some of Udemy's main features to create a learning experience for its users. 
 
 ## Installation
-# Clone this repository.
-# On your hosts file, add '192.168.56.56        testproject.test' to your hosts file. 
-# Change your mappings for your Homestead.yaml file to accomodate the new project on your homestead virtual machine. 
-# After serving the project, in your web brower, load up testproject.test to get access to the website. 
-# Now you can experience the wonderful features of this LMS, from course registration to embedded content, to user satisfaction.
+- Clone this repository.
+- On your hosts file, add '192.168.56.56        testproject.test' to your hosts file. 
+- Change your mappings for your Homestead.yaml file to accomodate the new project on your homestead virtual machine. 
+- After serving the project, in your web brower, load up testproject.test to get access to the website. 
+- Now you can experience the wonderful features of this LMS, from course registration to embedded content, to user satisfaction.
 
 
 
